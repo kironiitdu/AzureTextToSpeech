@@ -1,0 +1,22 @@
+D:\Backup\TextToSpeechApp\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.deps.json
+D:\Backup\TextToSpeechApp\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.runtimeconfig.json
+D:\Backup\TextToSpeechApp\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.runtimeconfig.dev.json
+D:\Backup\TextToSpeechApp\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.dll
+D:\Backup\TextToSpeechApp\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.pdb
+D:\Backup\TextToSpeechApp\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.csprojAssemblyReference.cache
+D:\Backup\TextToSpeechApp\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.csproj.CoreCompileInputs.cache
+D:\Backup\TextToSpeechApp\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.AssemblyInfoInputs.cache
+D:\Backup\TextToSpeechApp\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.AssemblyInfo.cs
+D:\Backup\TextToSpeechApp\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.dll
+D:\Backup\TextToSpeechApp\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.pdb
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.deps.json
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.runtimeconfig.json
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.runtimeconfig.dev.json
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.dll
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\bin\Debug\netcoreapp2.0\TextToSpeechApp.pdb
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.csprojAssemblyReference.cache
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.csproj.CoreCompileInputs.cache
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.AssemblyInfoInputs.cache
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.AssemblyInfo.cs
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.dll
+D:\Z_Case_Picture\Convert Text to Speech in multiple languages using Asp.Net Core & C#\C#\TextToSpeechApp\obj\Debug\netcoreapp2.0\TextToSpeechApp.pdb
